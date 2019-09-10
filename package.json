@@ -1,0 +1,25 @@
+{
+  "name": "platzi-video",
+  "version": "1.0.0",
+  "description": "Proyecto desarrollado durante la Escuela de JavaScript 2019",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "storybook": "start-storybook"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RaulBG/platzi-video.git"
+  },
+  "author": "@raulfbgomez",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/RaulBG/platzi-video/issues"
+  },
+  "homepage": "https://github.com/RaulBG/platzi-video#readme",
+  "devDependencies": {
+    "@babel/core": "^7.6.0",
+    "@storybook/html": "^5.1.11",
+    "babel-loader": "^8.0.6"
+  }
+}
